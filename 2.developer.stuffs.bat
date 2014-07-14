@@ -10,4 +10,3 @@ cinst NuGet.CommandLine
 cinst NugetPackageManager
 cinst Compass
 cinst winmerge
-

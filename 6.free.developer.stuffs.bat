@@ -1,3 +1,4 @@
+cinst arduinoide
 cinst javaruntime
 cinst ruby
 cinst python

@@ -1,3 +1,4 @@
+cinst doPDF
 cinst 7zip.install
 cinst GoogleChrome
 cinst Firefox
