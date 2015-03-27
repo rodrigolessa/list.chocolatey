@@ -10,3 +10,4 @@ cinst NuGet.CommandLine
 cinst NugetPackageManager
 cinst Compass
 cinst winmerge
+choco install microsoft-message-analyzer
